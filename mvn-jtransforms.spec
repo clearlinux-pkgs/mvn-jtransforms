@@ -4,7 +4,7 @@
 #
 Name     : mvn-jtransforms
 Version  : 2.4.0
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/com/github/rwl/jtransforms/2.4.0/jtransforms-2.4.0.jar
 Source0  : https://repo1.maven.org/maven2/com/github/rwl/jtransforms/2.4.0/jtransforms-2.4.0.jar
 Source1  : https://repo1.maven.org/maven2/com/github/rwl/jtransforms/2.4.0/jtransforms-2.4.0.pom
